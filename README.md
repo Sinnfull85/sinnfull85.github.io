@@ -36,7 +36,7 @@
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://github.com/Sinnfull85/sinnfull85.github.io/blob/main/images/bJk.gif" align="center" style="width: 100%" />
+<img src="https://i.ibb.co/2vx6nm4/bildgit.gif" alt="bildgit" border="0"></a> align="center" style="width: 100%" />
 </div>  
 
 
