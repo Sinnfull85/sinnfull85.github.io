@@ -36,7 +36,7 @@
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://github.com/Sinnfull85/sinnfull85.github.io/settings/og-template.gif" align="center" style="width: 100%" />
+<img src="https://github.com/Sinnfull85/sinnfull85.github.io/blob/main/images/bJk.gif" align="center" style="width: 100%" />
 </div>  
 
 
